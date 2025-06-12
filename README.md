@@ -1,1 +1,1 @@
-# recipes
+Create a recipe app with HTML basics
